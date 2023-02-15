@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there ! 👋
+
+- 🙋‍♂️ He/him
+- 🔭 Currently working on ΞXODE
+- 📫 Contact me on Discord at Nosti#0442
+
+### Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nostidev&count_private=true&show_icons=true&theme=github_dark)
+![Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nostidev&layout=compact&theme=github_dark)
 
 <!--
 **nostidev/nostidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
