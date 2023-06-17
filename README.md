@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ He/him
 - 🔭 Currently working on ΞXODE
-- 📫 Contact me on Discord at Nosti#0442
+- 📫 Contact me on Discord at nostioff
 
 ### Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nostidev&count_private=true&show_icons=true&theme=github_dark)
