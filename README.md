@@ -1,7 +1,7 @@
-# Hello there ! 👋
+# Hello there 👋
 
 - 🙋‍♂️ He/him
-- 🔭 Currently working on ΞXODE
+- 🔭 Currently working on something
 - 📫 Contact me on Discord at nostioff
 
 ### Statistics
